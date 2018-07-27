@@ -1,0 +1,5 @@
+/var/spool/torque-5.1.1.2/mom_priv/jobs/98951.pp02.SC: line 25: 15931 Segmentation fault      (core dumped) ./SSSP_Pthread_test $NUM_THREADS input30000sparse.txt output.txt 15000
+
+real	0m21.139s
+user	0m3.963s
+sys	0m4.303s

@@ -1,0 +1,12 @@
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+pointNum:128000  rank:1  time:0.032538  
+pointNum:128000  rank:5  time:0.072351  
+pointNum:128000  rank:2  time:4.466822  
+pointNum:128000  rank:4  time:4.516839  
+pointNum:0  rank:0  time:22.157560  
+pointNum:128000  rank:3  time:22.157550  

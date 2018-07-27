@@ -1,0 +1,4 @@
+processNum:2
+processNum:2
+pointNum:0  rank:0  time:30.948054  
+pointNum:640000  rank:1  time:30.948051  

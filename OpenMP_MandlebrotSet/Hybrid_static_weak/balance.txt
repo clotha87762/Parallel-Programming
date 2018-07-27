@@ -1,0 +1,36 @@
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+Process#:3  thread#:0  threadTime:0.002235 threadNumPoint:106800 start2855878.302341 end2855878.304576
+Process#:3  thread#:3  threadTime:0.002277 threadNumPoint:106800 start2855878.302341 end2855878.304618
+Process#:4  thread#:3  threadTime:0.003115 threadNumPoint:106400 start2855878.302309 end2855878.305424
+Process#:4  thread#:0  threadTime:0.003161 threadNumPoint:106400 start2855878.302309 end2855878.305470
+Process#:1  thread#:0  threadTime:0.002485 threadNumPoint:106800 start2855847.669022 end2855847.671507
+Process#:1  thread#:3  threadTime:0.002543 threadNumPoint:106800 start2855847.669022 end2855847.671565
+Process#:5  thread#:0  threadTime:0.001811 threadNumPoint:106400 start2855878.306072 end2855878.307883
+Process#:2  thread#:0  threadTime:0.003470 threadNumPoint:106800 start2855847.670092 end2855847.673562
+Process#:0  thread#:0  threadTime:0.004799 threadNumPoint:106800 start2855847.669125 end2855847.673923
+Process#:0  thread#:3  threadTime:0.004852 threadNumPoint:106800 start2855847.669125 end2855847.673976
+Process#:2  thread#:3  threadTime:0.004179 threadNumPoint:106800 start2855847.670092 end2855847.674271
+Process#:5  thread#:3  threadTime:0.003838 threadNumPoint:106400 start2855878.306072 end2855878.309911
+Process#:3  thread#:1  threadTime:10.272678 threadNumPoint:106800 start2855878.302341 end2855888.575019
+Process#:4  thread#:1  threadTime:10.276486 threadNumPoint:106400 start2855878.302309 end2855888.578796
+Process#:5  thread#:1  threadTime:10.282222 threadNumPoint:106400 start2855878.306072 end2855888.588294
+Process#:2  thread#:1  threadTime:10.290410 threadNumPoint:106800 start2855847.670092 end2855857.960502
+Process#:0  thread#:1  threadTime:10.311851 threadNumPoint:106800 start2855847.669125 end2855857.980975
+Process#:1  thread#:1  threadTime:10.328611 threadNumPoint:106800 start2855847.669022 end2855857.997633
+Process#:4  thread#:2  threadTime:10.346230 threadNumPoint:106400 start2855878.302309 end2855888.648540
+rank:4  processPoint#:425600 time:10.346598
+Process#:3  thread#:2  threadTime:10.346858 threadNumPoint:106800 start2855878.302341 end2855888.649199
+rank:3  processPoint#:427200 time:10.347038
+Process#:5  thread#:2  threadTime:10.354117 threadNumPoint:106400 start2855878.306072 end2855888.660189
+rank:5  processPoint#:425600 time:10.358029
+Process#:2  thread#:2  threadTime:10.364865 threadNumPoint:106800 start2855847.670092 end2855858.034957
+rank:2  processPoint#:427200 time:10.366228
+Process#:0  thread#:2  threadTime:10.390015 threadNumPoint:106800 start2855847.669125 end2855858.059140
+rank:0  processPoint#:427200 time:10.390359
+Process#:1  thread#:2  threadTime:10.409254 threadNumPoint:106800 start2855847.669022 end2855858.078276
+rank:1  processPoint#:427200 time:10.409577

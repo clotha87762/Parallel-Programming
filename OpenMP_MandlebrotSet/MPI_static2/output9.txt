@@ -1,0 +1,18 @@
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+processNum:9
+rank:1  time:0.045029
+rank:2  time:0.059367
+rank:7  time:0.081719
+rank:8  time:0.106428
+rank:3  time:2.591418
+rank:6  time:2.665806
+rank:4  time:12.860573
+rank:0  time:12.998941
+rank:5  time:13.001774

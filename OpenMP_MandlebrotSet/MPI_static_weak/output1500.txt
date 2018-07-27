@@ -1,0 +1,24 @@
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+rank:2  time:0.185812
+rank:1  time:0.204108
+rank:3  time:0.210101
+rank:9  time:0.404186
+rank:11  time:0.404098
+rank:10  time:0.413162
+rank:4  time:6.759323
+rank:8  time:8.241740
+rank:5  time:32.986786
+rank:7  time:33.091660
+rank:6  time:50.303088
+rank:0  time:50.313919

@@ -1,0 +1,12 @@
+pointNum: 214400 thread#:0  Time: 0.001856 
+pointNum: 212800 thread#:10  Time: 0.002125 
+pointNum: 212800 thread#:11  Time: 0.002131 
+pointNum: 214400 thread#:1  Time: 0.002453 
+pointNum: 214400 thread#:2  Time: 0.013548 
+pointNum: 212800 thread#:9  Time: 0.014792 
+pointNum: 212800 thread#:8  Time: 2.320757 
+pointNum: 214400 thread#:3  Time: 2.392694 
+pointNum: 212800 thread#:7  Time: 19.151023 
+pointNum: 212800 thread#:4  Time: 19.703608 
+pointNum: 212800 thread#:6  Time: 35.865158 
+pointNum: 212800 thread#:5  Time: 36.334547 

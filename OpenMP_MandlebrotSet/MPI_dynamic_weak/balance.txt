@@ -1,0 +1,24 @@
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+processNum:12
+pointNum:278400  rank:1  time:11.269130  
+pointNum:278400  rank:2  time:11.269113  
+pointNum:174400  rank:5  time:11.269083  
+pointNum:248000  rank:7  time:11.269128  
+pointNum:227200  rank:9  time:11.269101  
+pointNum:198400  rank:10  time:11.269105  
+pointNum:152000  rank:3  time:11.269100  
+pointNum:300800  rank:4  time:11.269123  
+pointNum:203200  rank:8  time:11.269114  
+pointNum:310400  rank:11  time:11.269114  
+pointNum:0  rank:0  time:11.269259  
+pointNum:188800  rank:6  time:11.269286  

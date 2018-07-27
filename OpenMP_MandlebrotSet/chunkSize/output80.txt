@@ -1,0 +1,12 @@
+pointNum: 256000 thread#:4  Time: 0.014036 
+pointNum: 256000 thread#:3  Time: 0.016328 
+pointNum: 256000 thread#:5  Time: 0.517566 
+pointNum: 256000 thread#:2  Time: 0.550582 
+pointNum: 256000 thread#:6  Time: 3.363368 
+pointNum: 256000 thread#:1  Time: 3.434519 
+pointNum: 256000 thread#:7  Time: 12.636224 
+pointNum: 256000 thread#:0  Time: 12.712166 
+pointNum: 128000 thread#:8  Time: 17.264727 
+pointNum: 128000 thread#:11  Time: 17.355326 
+pointNum: 128000 thread#:9  Time: 23.923414 
+pointNum: 128000 thread#:10  Time: 24.085364 

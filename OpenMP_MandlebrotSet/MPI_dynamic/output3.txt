@@ -1,0 +1,6 @@
+processNum:3
+processNum:3
+processNum:3
+pointNum:0  rank:0  time:15.493143  
+pointNum:341600  rank:1  time:15.493143  
+pointNum:298400  rank:2  time:15.493150  

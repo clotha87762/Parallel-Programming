@@ -1,0 +1,36 @@
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+processNum:6
+Process#:2  thread#:2  threadTime:5.193679 threadNumPoint:115344 
+Process#:2  thread#:1  threadTime:5.193751 threadNumPoint:88110 
+Process#:2  thread#:3  threadTime:5.193794 threadNumPoint:105465 
+Process#:2  thread#:0  threadTime:5.193822 threadNumPoint:118281 
+Process#:0  thread#:3  threadTime:5.201820 threadNumPoint:104397 
+Process#:0  thread#:0  threadTime:5.201849 threadNumPoint:115611 
+Process#:0  thread#:1  threadTime:5.201861 threadNumPoint:99324 
+Process#:0  thread#:2  threadTime:5.201876 threadNumPoint:107868 
+rank:2  processPoint#:427200 time:5.203873
+Process#:1  thread#:2  threadTime:5.207673 threadNumPoint:109203 
+Process#:1  thread#:0  threadTime:5.207702 threadNumPoint:106266 
+Process#:1  thread#:1  threadTime:5.207714 threadNumPoint:116145 
+Process#:1  thread#:3  threadTime:5.207728 threadNumPoint:95586 
+rank:1  processPoint#:427200 time:5.209737
+Process#:3  thread#:3  threadTime:5.654988 threadNumPoint:104397 
+Process#:3  thread#:0  threadTime:5.655085 threadNumPoint:89178 
+Process#:3  thread#:2  threadTime:5.655108 threadNumPoint:107601 
+Process#:3  thread#:1  threadTime:5.655128 threadNumPoint:126024 
+rank:3  processPoint#:427200 time:5.656630
+Process#:5  thread#:3  threadTime:5.662718 threadNumPoint:104272 
+Process#:5  thread#:2  threadTime:5.662747 threadNumPoint:102676 
+Process#:5  thread#:0  threadTime:5.662765 threadNumPoint:118636 
+Process#:5  thread#:1  threadTime:5.662775 threadNumPoint:100016 
+rank:5  processPoint#:425600 time:5.664403
+Process#:4  thread#:3  threadTime:5.667420 threadNumPoint:114646 
+Process#:4  thread#:0  threadTime:5.667485 threadNumPoint:115178 
+Process#:4  thread#:1  threadTime:5.653912 threadNumPoint:73682 
+Process#:4  thread#:2  threadTime:5.667517 threadNumPoint:122094 
+rank:0  processPoint#:427200 time:5.667015
+rank:4  processPoint#:425600 time:5.668797

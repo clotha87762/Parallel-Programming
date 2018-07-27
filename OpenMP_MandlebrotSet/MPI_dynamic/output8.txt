@@ -1,0 +1,16 @@
+processNum:8
+processNum:8
+processNum:8
+processNum:8
+processNum:8
+processNum:8
+processNum:8
+processNum:8
+pointNum:153600  rank:2  time:4.441654  
+pointNum:96000  rank:6  time:4.441756  
+pointNum:108800  rank:1  time:4.441649  
+pointNum:75200  rank:3  time:4.441703  
+pointNum:67200  rank:4  time:4.441869  
+pointNum:69600  rank:7  time:4.441888  
+pointNum:69600  rank:5  time:4.442833  
+pointNum:0  rank:0  time:4.442741  

@@ -1,0 +1,12 @@
+pointNum: 213400 thread#:1  Time: 7.737854 
+pointNum: 213300 thread#:5  Time: 7.750570 
+pointNum: 213300 thread#:9  Time: 8.698664 
+pointNum: 213300 thread#:10  Time: 9.109727 
+pointNum: 213400 thread#:2  Time: 9.224428 
+pointNum: 213300 thread#:6  Time: 9.538724 
+pointNum: 213400 thread#:0  Time: 10.170306 
+pointNum: 213300 thread#:8  Time: 10.201935 
+pointNum: 213300 thread#:4  Time: 11.745098 
+pointNum: 213400 thread#:3  Time: 12.509012 
+pointNum: 213300 thread#:7  Time: 12.520116 
+pointNum: 213300 thread#:11  Time: 13.075729 

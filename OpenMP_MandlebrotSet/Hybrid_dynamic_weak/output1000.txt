@@ -1,0 +1,8 @@
+processNum:4
+processNum:4
+processNum:4
+processNum:4
+rank:1  time:4.066670
+rank:2  time:4.066960
+rank:0  time:4.072149
+rank:3  time:4.072147

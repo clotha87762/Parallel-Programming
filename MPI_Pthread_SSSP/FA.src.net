@@ -1,0 +1,18 @@
+.subckt FA a b c_in sum c_out VDD GND
+x_nand1 a b out1 VDD GND NAND_2X
+x_nand2 out1 a out2 VDD GND NAND_2X
+x_nand3 out1 b out3 VDD GND NAND_2X
+x_nand4 out3 out2 out4 VDD GND NAND_2X
+x_nand5 out4 c_in out5 VDD GND NAND_2X
+x_nand6	out5 out4 out6 VDD GND NAND_2X
+x_nand7	out5 c_in out7 VDD GND NAND_2X
+x_nand8 out7 out6 sum VDD GND NAND_2X
+x_nand9	out5 out1 c_out VDD GND NAND_2X
+.ends and
+
+.subckt NAND_2X IN1 IN2 OUT VDD GND
+mp1 OUT IN1 VDD VDD P_18 w=0.67u l=0.18u
+mp2 OUT IN2 VDD VDD P_18 w=0.67u l=0.18u
+mn1 NET IN1 GND GND N_18 w=0.67u l=0.18u
+mn2 OUT IN2 NET GND N_18 w=0.67u l=0.18u
+.ends

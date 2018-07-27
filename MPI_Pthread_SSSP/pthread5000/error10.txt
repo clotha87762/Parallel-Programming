@@ -1,0 +1,5 @@
+totalTime:0.161752  |　Compute Time:0.118523 |  Sync Time:0.002876  | IO Time:0.040353 
+
+real	0m0.221s
+user	0m0.501s
+sys	0m0.081s

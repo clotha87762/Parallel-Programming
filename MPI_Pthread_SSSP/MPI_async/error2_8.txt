@@ -1,0 +1,52 @@
+rank:1 |send count:9 | recv count: 9 |total Time:0.003779 |compute Time:0.000007 |commuTime:0.002570|IO Time:0.000000
+rank:2 |send count:6 | recv count: 6 |total Time:0.003878 |compute Time:0.000005 |commuTime:0.002568|IO Time:0.000000
+rank:8 |send count:9 | recv count: 7 |total Time:0.003835 |compute Time:0.000008 |commuTime:0.002548|IO Time:0.000000
+rank:3 |send count:4 | recv count: 4 |total Time:0.003881 |compute Time:0.000006 |commuTime:0.002563|IO Time:0.000000
+rank:9 |send count:6 | recv count: 6 |total Time:0.003838 |compute Time:0.000007 |commuTime:0.002546|IO Time:0.000000
+rank:4 |send count:6 | recv count: 6 |total Time:0.003273 |compute Time:0.000005 |commuTime:0.002555|IO Time:0.000000
+rank:10 |send count:11 | recv count: 12 |total Time:0.003440 |compute Time:0.000008 |commuTime:0.002538|IO Time:0.000000
+rank:5 |send count:8 | recv count: 9 |total Time:0.003286 |compute Time:0.000005 |commuTime:0.002559|IO Time:0.000000
+rank:11 |send count:4 | recv count: 4 |total Time:0.003447 |compute Time:0.000005 |commuTime:0.002541|IO Time:0.000000
+rank:6 |send count:6 | recv count: 6 |total Time:0.003904 |compute Time:0.000008 |commuTime:0.002549|IO Time:0.000000
+rank:12 |send count:5 | recv count: 5 |total Time:0.003359 |compute Time:0.000005 |commuTime:0.002537|IO Time:0.000000
+rank:7 |send count:7 | recv count: 7 |total Time:0.003440 |compute Time:0.000003 |commuTime:0.002546|IO Time:0.000000
+rank:13 |send count:4 | recv count: 4 |total Time:0.003383 |compute Time:0.000005 |commuTime:0.002539|IO Time:0.000000
+rank:16 |send count:5 | recv count: 5 |total Time:0.003373 |compute Time:0.000008 |commuTime:0.002515|IO Time:0.000000
+rank:14 |send count:7 | recv count: 7 |total Time:0.003939 |compute Time:0.000006 |commuTime:0.002530|IO Time:0.000000
+rank:17 |send count:7 | recv count: 9 |total Time:0.003831 |compute Time:0.000005 |commuTime:0.002512|IO Time:0.000000
+rank:15 |send count:6 | recv count: 6 |total Time:0.003945 |compute Time:0.000007 |commuTime:0.002528|IO Time:0.000000
+rank:18 |send count:18 | recv count: 11 |total Time:0.003449 |compute Time:0.000007 |commuTime:0.002506|IO Time:0.000000
+rank:24 |send count:8 | recv count: 9 |total Time:0.003389 |compute Time:0.000007 |commuTime:0.001945|IO Time:0.000000
+rank:19 |send count:7 | recv count: 7 |total Time:0.003464 |compute Time:0.000006 |commuTime:0.002512|IO Time:0.000000
+rank:25 |send count:7 | recv count: 10 |total Time:0.003858 |compute Time:0.000007 |commuTime:0.001947|IO Time:0.000000
+rank:21 |send count:7 | recv count: 6 |total Time:0.003355 |compute Time:0.000009 |commuTime:0.002365|IO Time:0.000000
+rank:26 |send count:5 | recv count: 6 |total Time:0.003469 |compute Time:0.000005 |commuTime:0.001946|IO Time:0.000000
+rank:22 |send count:5 | recv count: 6 |total Time:0.003429 |compute Time:0.000004 |commuTime:0.002013|IO Time:0.000000
+rank:27 |send count:5 | recv count: 5 |total Time:0.003468 |compute Time:0.000004 |commuTime:0.001940|IO Time:0.000000
+rank:23 |send count:4 | recv count: 4 |total Time:0.003427 |compute Time:0.000011 |commuTime:0.001972|IO Time:0.000000
+rank:28 |send count:4 | recv count: 4 |total Time:0.003441 |compute Time:0.000003 |commuTime:0.001994|IO Time:0.000000
+rank:33 |send count:9 | recv count: 10 |total Time:0.003957 |compute Time:0.000006 |commuTime:0.001937|IO Time:0.000000
+rank:30 |send count:7 | recv count: 6 |total Time:0.004000 |compute Time:0.000004 |commuTime:0.001974|IO Time:0.000000
+rank:34 |send count:5 | recv count: 6 |total Time:0.003435 |compute Time:0.000006 |commuTime:0.001930|IO Time:0.000000
+rank:31 |send count:6 | recv count: 6 |total Time:0.004022 |compute Time:0.000007 |commuTime:0.001986|IO Time:0.000000
+rank:35 |send count:5 | recv count: 5 |total Time:0.003976 |compute Time:0.000003 |commuTime:0.001600|IO Time:0.000000
+rank:40 |send count:5 | recv count: 5 |total Time:0.003915 |compute Time:0.000005 |commuTime:0.001582|IO Time:0.000000
+rank:36 |send count:4 | recv count: 4 |total Time:0.003891 |compute Time:0.000005 |commuTime:0.001607|IO Time:0.000000
+rank:41 |send count:7 | recv count: 9 |total Time:0.003922 |compute Time:0.000006 |commuTime:0.001550|IO Time:0.000000
+rank:37 |send count:5 | recv count: 6 |total Time:0.003422 |compute Time:0.000005 |commuTime:0.001594|IO Time:0.000000
+rank:42 |send count:4 | recv count: 4 |total Time:0.003394 |compute Time:0.000005 |commuTime:0.001556|IO Time:0.000000
+rank:38 |send count:17 | recv count: 15 |total Time:0.003009 |compute Time:0.000006 |commuTime:0.001554|IO Time:0.000000
+rank:43 |send count:7 | recv count: 5 |total Time:0.003523 |compute Time:0.000005 |commuTime:0.001564|IO Time:0.000000
+rank:39 |send count:11 | recv count: 8 |total Time:0.003995 |compute Time:0.000011 |commuTime:0.001584|IO Time:0.000000
+rank:44 |send count:4 | recv count: 4 |total Time:0.003925 |compute Time:0.000004 |commuTime:0.001561|IO Time:0.000000
+rank:32 |send count:5 | recv count: 6 |total Time:0.003997 |compute Time:0.000007 |commuTime:0.002088|IO Time:0.000000
+rank:45 |send count:4 | recv count: 4 |total Time:0.003467 |compute Time:0.000005 |commuTime:0.001551|IO Time:0.000000
+rank:46 |send count:4 | recv count: 4 |total Time:0.003073 |compute Time:0.000005 |commuTime:0.001545|IO Time:0.000000
+rank:47 |send count:6 | recv count: 10 |total Time:0.004025 |compute Time:0.000004 |commuTime:0.001537|IO Time:0.000000
+rank:29 |send count:6 | recv count: 6 |total Time:0.003662 |compute Time:0.000006 |commuTime:0.002208|IO Time:0.000000
+rank:20 |send count:5 | recv count: 5 |total Time:0.004159 |compute Time:0.000005 |commuTime:0.003456|IO Time:0.000000
+rank:0 |send count:54 | recv count: 51 |total Time:0.046586 |compute Time:0.000006 |commuTime:0.002083 |Sync Time:0.000000 |IO Time:0.042757
+
+real	0m1.585s
+user	0m3.060s
+sys	0m1.941s

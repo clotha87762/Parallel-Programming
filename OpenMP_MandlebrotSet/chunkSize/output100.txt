@@ -1,0 +1,12 @@
+pointNum: 320000 thread#:1  Time: 0.003016 
+pointNum: 320000 thread#:2  Time: 0.003768 
+pointNum: 320000 thread#:3  Time: 0.013380 
+pointNum: 320000 thread#:0  Time: 0.016975 
+pointNum: 160000 thread#:4  Time: 1.230701 
+pointNum: 160000 thread#:11  Time: 1.267000 
+pointNum: 160000 thread#:5  Time: 8.417674 
+pointNum: 160000 thread#:10  Time: 8.539285 
+pointNum: 160000 thread#:6  Time: 18.924965 
+pointNum: 160000 thread#:9  Time: 18.990035 
+pointNum: 160000 thread#:7  Time: 29.138698 
+pointNum: 160000 thread#:8  Time: 29.300520 

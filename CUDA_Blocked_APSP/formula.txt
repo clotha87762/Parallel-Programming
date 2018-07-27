@@ -1,0 +1,10 @@
+GFLOPS = (10+ 4 * (BF))*(N/BF) * N^2 / (10^9 * computing Time)
+Bandwidth = 3 * 4 * BF * (N/BF) * N^2 / (10^9 * computing Time)
+
+while(x<bf){
+	temp = d[i][k] +d[k][j];
+	if(d[i][j]>temp){
+		d[i][j] = temp;
+	}
+	x++;
+}

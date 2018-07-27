@@ -1,0 +1,10 @@
+processNum:5
+processNum:5
+processNum:5
+processNum:5
+processNum:5
+pointNum:160000  rank:4  time:0.101928  
+pointNum:160000  rank:1  time:0.102283  
+pointNum:160000  rank:2  time:15.410894  
+pointNum:160000  rank:3  time:15.632814  
+pointNum:0  rank:0  time:15.633104  

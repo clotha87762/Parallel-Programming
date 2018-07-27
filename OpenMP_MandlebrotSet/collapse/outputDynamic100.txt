@@ -1,0 +1,12 @@
+pointNum: 144600 thread#:1  Time: 10.433597 
+pointNum: 244200 thread#:9  Time: 10.433597 
+pointNum: 192500 thread#:5  Time: 10.433597 
+pointNum: 313200 thread#:7  Time: 10.433597 
+pointNum: 176900 thread#:10  Time: 10.433597 
+pointNum: 252400 thread#:0  Time: 10.433597 
+pointNum: 232300 thread#:3  Time: 10.433597 
+pointNum: 194100 thread#:4  Time: 10.433597 
+pointNum: 338200 thread#:8  Time: 10.433597 
+pointNum: 165600 thread#:11  Time: 10.433597 
+pointNum: 166700 thread#:6  Time: 10.433597 
+pointNum: 139300 thread#:2  Time: 10.433597 

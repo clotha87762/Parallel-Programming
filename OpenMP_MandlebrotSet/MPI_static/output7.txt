@@ -1,0 +1,14 @@
+processNum:7
+processNum:7
+processNum:7
+processNum:7
+processNum:7
+processNum:7
+processNum:7
+pointNum:107200  rank:1  time:0.044700  
+pointNum:106400  rank:6  time:0.068620  
+pointNum:106400  rank:5  time:0.667043  
+pointNum:107200  rank:2  time:0.683191  
+pointNum:106400  rank:4  time:14.777826  
+pointNum:0  rank:0  time:14.994976  
+pointNum:106400  rank:3  time:14.994941  

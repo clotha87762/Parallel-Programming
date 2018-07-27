@@ -1,0 +1,12 @@
+pointNum: 192000 thread#:10  Time: 8.449115 
+pointNum: 192000 thread#:9  Time: 8.461666 
+pointNum: 192000 thread#:11  Time: 9.339227 
+pointNum: 192000 thread#:8  Time: 9.402846 
+pointNum: 224000 thread#:5  Time: 9.688201 
+pointNum: 224000 thread#:2  Time: 9.730187 
+pointNum: 224000 thread#:6  Time: 9.894900 
+pointNum: 224000 thread#:1  Time: 9.897565 
+pointNum: 224000 thread#:7  Time: 9.985620 
+pointNum: 224000 thread#:0  Time: 9.990313 
+pointNum: 224000 thread#:3  Time: 10.405752 
+pointNum: 224000 thread#:4  Time: 10.596065 

@@ -1,0 +1,20 @@
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+processNum:10
+pointNum:88000  rank:3  time:3.459594  
+pointNum:89600  rank:4  time:3.459511  
+pointNum:68000  rank:5  time:3.459435  
+pointNum:57600  rank:6  time:3.459594  
+pointNum:53600  rank:8  time:3.459596  
+pointNum:128000  rank:9  time:3.459416  
+pointNum:54400  rank:1  time:3.453912  
+pointNum:52800  rank:2  time:3.459816  
+pointNum:0  rank:0  time:3.454201  
+pointNum:48000  rank:7  time:3.459944  

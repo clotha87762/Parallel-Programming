@@ -1,0 +1,14 @@
+cuda: N = 4096
+BF = 32, without shared memory and bank conflict avoidance :  11449.762695  / 9402.161133 / 47.701569 / 1942.524780
+BF = 32 ,Share memory without bank conflict avoidance :  8362.041321 / 6169.680176 / 51.505432 / 2140.855713
+BF = 32 ,Share memory with bank conflict avoidance :	6281.979850 / 4220.048828 / 49.808721  / 2012.122301 
+
+openmp: N=6144
+BF = 32, without shared memory and bank conflict avoidance : 23839.023438 / 16009.007812 / 3402.279053 / 4219.427734
+BF = 32 ,Share memory without bank conflict avoidance : 13032.763149 / 5243.847412 / 3773.474609 / 4015.441128
+BF = 32 ,Share memory with bank conflict avoidance :	12078.241717 / 4292.950684 / 3766.252930 / 4019.038103
+
+MPI: N = 6144
+BF = 32, without shared memory and bank conflict avoidance : 54012.710938 / 16012.513672 / 12227.518938 / 4521.569824 / 21010.119192
+BF = 32 ,Share memory without bank conflict avoidance : 42959.9888582 / 5247.168074  /13215.9201782  /4410.579114  /20086.321492
+BF = 32 ,Share memory with bank conflict avoidance : 41070.628547 / 4333.895020  /11941.594012   /4910.402602   /19884.736913
